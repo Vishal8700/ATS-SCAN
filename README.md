@@ -4,6 +4,11 @@
 
 Welcome to the ATS Scan Tool! This project leverages cutting-edge technology to help job seekers optimize their resumes to better match job descriptions and improve their chances of passing through Applicant Tracking Systems (ATS).
 
+
+
+https://github.com/Vishal8700/ATS-SCAN/assets/97828106/ddf4cfb6-d565-43e3-b8b7-4d3ca94ccf8b
+
+
 ## Features
 
 - **Resume Analysis:** Upload your resume and a job description to receive a detailed analysis.
@@ -17,7 +22,7 @@ Welcome to the ATS Scan Tool! This project leverages cutting-edge technology to 
 ## link 
 
 https://atsscore.streamlit.app/
-https://atsscore.streamlit.app/
+
 
 ### Prerequisites
 
