@@ -14,6 +14,11 @@ Welcome to the ATS Scan Tool! This project leverages cutting-edge technology to 
 
 ## Getting Started
 
+## link 
+
+https://atsscore.streamlit.app/
+https://atsscore.streamlit.app/
+
 ### Prerequisites
 
 - **Python 3.8+**: Ensure Python is installed on your system.
@@ -57,9 +62,6 @@ Welcome to the ATS Scan Tool! This project leverages cutting-edge technology to 
 - [ ] **Integrate with Job Platforms**: Allow users to pull job descriptions directly from job listing websites.
 - [ ] **Advanced Analytics**: Incorporate more sophisticated metrics and visualizations.
 
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
 
 ## License
 
