@@ -21,8 +21,7 @@ https://github.com/Vishal8700/ATS-SCAN/assets/97828106/ddf4cfb6-d565-43e3-b8b7-4
 
 ## link 
 
-https://atscan.onrender.com
-
+https://atscore.onrender.com
 
 ### Prerequisites
 
